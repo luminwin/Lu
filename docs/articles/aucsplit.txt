@@ -1,0 +1,6 @@
+@misc{HemantAUCsplit,
+	author = "Hemant Ishwaran and Min Lu and Udaya B. Kogalur",
+	title = {{randomForestSRC}: splitting rule for multiclass problems via {AUC} vignette},
+	year = {2022},
+	url = {http://randomforestsrc.org/articles/aucsplit.html}
+}
