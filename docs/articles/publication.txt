@@ -1,3 +1,13 @@
+@ARTICLE{Lufph2022,
+AUTHOR={Lu, Min and Liao, Xinyi},   
+TITLE={Access to care through telehealth among U.S. Medicare beneficiaries in the wake of the COVID-19 pandemic},      
+JOURNAL={Frontiers in Public Health},      
+VOLUME={10},           
+YEAR={2022},      
+URL={https://www.frontiersin.org/articles/10.3389/fpubh.2022.946944},       
+DOI={10.3389/fpubh.2022.946944},      
+ISSN={2296-2565},
+}
 @ARTICLE{Lufgene2021,
 	AUTHOR={Lu, Min and Sha, Yifan and Silva, Tiago and Colaprico, Antonio and Sun, Xiaodian and Ban, Yuguang and Wang, Lily and Lehmann, Brian and Chen, Xi},   
 	TITLE={LR hunting: A Random Forest Based Cell-cell Interaction Discovery Method for Single-cell Gene Expression Data},      
