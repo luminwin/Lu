@@ -1,0 +1,9 @@
+@ARTICLE{ZaiFrontier,
+AUTHOR={Zhai, Xiaoming and Lu, Min},   
+TITLE={Editorial: Machine Learning Applications in Educational Studies},      
+JOURNAL={Frontiers in Education},      
+VOLUME={8},           
+YEAR={2023},      
+URL={https://www.frontiersin.org/articles/10.3389/feduc.2023.1225802},       
+10.3389/feduc.2023.1225802}
+}
