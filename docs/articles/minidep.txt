@@ -3,5 +3,7 @@
 	and Udaya B. Kogalur",
 	title = {{randomForestSRC}: minimal depth vignette},
 	year = {2021},
-	url = {http://randomforestsrc.org/articles/minidep.html}
+	url = {http://randomforestsrc.org/articles/minidep.html},
+	howpublished = "\url{http://randomforestsrc.org/articles/minidep.html}",
+	note = "[accessed 1-May-2023]"	
 }

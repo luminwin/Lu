@@ -2,5 +2,7 @@
 	author = "Hemant Ishwaran and Fei Tang and Min Lu and Udaya B. Kogalur",
 	title = {{randomForestSRC}: multivariate splitting rule vignette},
 	year = {2021},
-	url = {http://randomforestsrc.org/articles/mvsplit.html}
+	url = {http://randomforestsrc.org/articles/mvsplit.html},
+	howpublished = "\url{http://randomforestsrc.org/articles/mvsplit.html}",
+	note = "[accessed 1-May-2023]"
 }

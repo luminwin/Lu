@@ -2,5 +2,7 @@
 	author = "Hemant Ishwaran and Min Lu and Udaya B. Kogalur",
 	title = {{randomForestSRC}: {AUC} splitting for multiclass problems vignette},
 	year = {2022},
-	url = {http://randomforestsrc.org/articles/aucsplit.html}
+	url = {http://randomforestsrc.org/articles/aucsplit.html},
+	howpublished = "\url{http://randomforestsrc.org/articles/aucsplit.html}",
+	note = "[accessed 1-May-2023]"
 }

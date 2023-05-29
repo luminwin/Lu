@@ -2,5 +2,7 @@
 	author = "Hemant Ishwaran and Min Lu and Udaya B. Kogalur",
 	title = {{randomForestSRC}: getting started with {randomForestSRC} vignette},
 	year = {2021},
-	url = {http://randomforestsrc.org/articles/getstarted.html}
+	url = {http://randomforestsrc.org/articles/getstarted.html},
+	howpublished = "\url{http://randomforestsrc.org/articles/getstarted.html}",
+	note = "[accessed 1-May-2023]"
 }

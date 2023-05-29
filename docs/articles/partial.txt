@@ -2,5 +2,7 @@
 	author = "Hemant Ishwaran and Min Lu and Udaya B. Kogalur",
 	title = {{randomForestSRC}: partial plots vignette},
 	year = {2021},
-	url = {http://randomforestsrc.org/articles/partial.html}
+	url = {http://randomforestsrc.org/articles/partial.html},
+	howpublished = "\url{http://randomforestsrc.org/articles/partial.html}",
+	note = "[accessed 1-May-2023]"	
 }

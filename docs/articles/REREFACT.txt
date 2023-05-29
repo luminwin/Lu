@@ -6,6 +6,7 @@
 	note = {R package version 1.0},
 	url = {https://cran.r-project.org/package=REREFACT},
 	pdf =
-	{https://cran.r-project.org/web/packages/REREFACT/REREFACT.pdf}
-
+	{https://cran.r-project.org/web/packages/REREFACT/REREFACT.pdf},
+	howpublished = "\url{https://cran.r-project.org/web/packages/REREFACT}",
+	note = "[accessed 1-May-2023]"	
 }
