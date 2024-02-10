@@ -1,0 +1,10 @@
+@ARTICLE{JTMensembletree,
+	AUTHOR = {Min Lu, Ruijie Yin and X. Steven Chen},
+	TITLE = {Ensemble Methods of Rank-Based Trees for Single Sample Classification with Gene Expression Profiles},
+	JOURNAL = {Journal of Translational Medicine},
+	VOLUME = {22},
+	YEAR = {2024},
+	NUMBER = {140},
+	URL = {https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-024-04940-2},
+	DOI = {10.1186/s12967-024-04940-2}
+}
