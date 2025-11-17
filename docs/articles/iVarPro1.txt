@@ -1,0 +1,10 @@
+@article{lu2025individual,
+  title={Individual variable priority: a model-independent local gradient method for variable importance},
+  author={Lu, Min and Ishwaran, Hemant},
+  journal={Artificial Intelligence Review},
+  volume={58},
+  number={12},
+  pages={407},
+  year={2025},
+  publisher={Springer}
+}
