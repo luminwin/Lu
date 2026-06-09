@@ -1,0 +1,8 @@
+@misc{HemantTESTIM,
+    author = "Hemant Ishwaran and Min Lu and Udaya B. Kogalur",
+    title = {{randomForestSRC}: learned test-time imputation vignette},
+    year = {2026},
+    url = {http://randomforestsrc.org/articles/testimput.html},
+    howpublished = "\url{http://randomforestsrc.org/articles/testimput.html}",
+    note = "[accessed date]"
+}

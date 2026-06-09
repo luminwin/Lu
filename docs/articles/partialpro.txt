@@ -1,0 +1,8 @@
+@misc{HemantpartialPro,
+    author = "Min Lu and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran",
+    title = {partialPro: partial effects from a VarPro analysis vignette},
+    year = {2025},
+    url = {http://www.varprotools.org/articles/partialpro.html},
+    howpublished = "\url{http://www.varprotools.org/articles/partialpro.html}",
+    note = "[accessed date]"
+}

@@ -1,3 +1,140 @@
+@article{LiuSIM2026,
+  title={Variance-Guided Regression for Heteroscedastic Data with a Grouping-Based Extension for Nonlinear Prediction},
+  author={Liu, Sibei and Lu, Min},
+  journal={Statistics in Medicine},
+  year={2026},
+  note={To appear},
+  url={https://luminwin2.github.io/pdfs/docs/varGuid_SIM.pdf}
+}
+
+@article{ZHOU2026,
+  title={Variable priority for unsupervised variable selection},
+  journal={Pattern Recognition},
+  volume={172},
+  pages={112727},
+  year={2026},
+  issn={0031-3203},
+  doi={10.1016/j.patcog.2025.112727},
+  url={https://www.sciencedirect.com/science/article/pii/S0031320325013901},
+  author={Zhou, Lili and Lu, Min and Ishwaran, Hemant}
+}
+
+@article{lu2025individual,
+  title={Individual variable priority: a model-independent local gradient method for variable importance},
+  author={Lu, Min and Ishwaran, Hemant},
+  journal={Artificial Intelligence Review},
+  volume={58},
+  number={12},
+  pages={407},
+  year={2025},
+  doi={10.1007/s10462-025-11339-y},
+  url={https://doi.org/10.1007/s10462-025-11339-y},
+  publisher={Springer}
+}
+
+@misc{HemantUNO,
+  author={Hemant Ishwaran and Min Lu and Udaya B. Kogalur},
+  title={{randomForestSRC}: Uno IPCW weighting, stabilization, and fast computation for improved concordance vignette},
+  year={2026},
+  url={http://randomforestsrc.org/articles/uno.html},
+  howpublished={"\url{http://randomforestsrc.org/articles/uno.html}"},
+  note={[accessed date]}
+}
+
+@misc{HemantTESTIM,
+  author={Hemant Ishwaran and Min Lu and Udaya B. Kogalur},
+  title={{randomForestSRC}: learned test-time imputation vignette},
+  year={2026},
+  url={http://randomforestsrc.org/articles/testimput.html},
+  howpublished={"\url{http://randomforestsrc.org/articles/testimput.html}"},
+  note={[accessed date]}
+}
+
+@misc{LuGettingStartedsgt,
+  author={Hemant Ishwaran and Min Lu and Udaya B. Kogalur},
+  title={{randomForestSGT}: getting started vignette},
+  year={2025},
+  url={http://www.randomforestsgt.org/articles/getstarted.html},
+  howpublished={"\url{http://www.randomforestsgt.org/articles/getstarted.html}"},
+  note={[accessed date]}
+}
+
+@misc{LuGettingStartedrhf,
+  author={Hemant Ishwaran and Min Lu and Udaya B. Kogalur},
+  title={{randomForestRHF}: getting started vignette},
+  year={2026},
+  url={http://www.randomforestrhf.org/articles/getstarted.html},
+  howpublished={"\url{http://www.randomforestrhf.org/articles/getstarted.html}"},
+  note={[accessed date]}
+}
+
+@misc{HemantpartialPro,
+  author={Min Lu and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran},
+  title={partialPro: partial effects from a VarPro analysis vignette},
+  year={2025},
+  url={http://www.varprotools.org/articles/partialpro.html},
+  howpublished={"\url{http://www.varprotools.org/articles/partialpro.html}"},
+  note={[accessed date]}
+}
+
+@misc{LuIsopro,
+  author={Min Lu and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran},
+  title={isopro: identifying anomalous data vignette},
+  year={2025},
+  url={http://www.varprotools.org/articles/isopro.html},
+  howpublished={"\url{http://www.varprotools.org/articles/isopro.html}"},
+  note={[accessed date]}
+}
+
+@misc{LuVarProi,
+  author={Min Lu and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran},
+  title={ivarPro: individual variable priority vignette},
+  year={2025},
+  url={http://www.varprotools.org/articles/ivarpro.html},
+  howpublished={"\url{http://www.varprotools.org/articles/ivarpro.html}"},
+  note={[accessed date]}
+}
+
+@misc{HemantUvarpro,
+  author={Min Lu and Lanyu Zhou and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran},
+  title={varPro: variable selection for unsupervised problems vignette},
+  year={2024},
+  url={http://www.varprotools.org/articles/unsupervise.html},
+  howpublished={"\url{http://www.varprotools.org/articles/unsupervise.html}"},
+  note={[accessed date]}
+}
+
+@misc{LuGettingStartedvarpro,
+  author={Min Lu and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran},
+  title={varPro: getting started with varPro vignette},
+  year={2025},
+  url={https://www.varprotools.org/articles/getstarted.html},
+  howpublished={"\url{https://www.varprotools.org/articles/getstarted.html}"},
+  note={[accessed date]}
+}
+
+@article{lu2025mlfi,
+  title={Machine Learning for Factor Investing: Python Version},
+  author={Lu, Min},
+  journal={Journal of the Royal Statistical Society Series A: Statistics in Society},
+  pages={qnaf152},
+  year={2025},
+  doi={10.1093/jrsssa/qnaf152},
+  url={https://doi.org/10.1093/jrsssa/qnaf152},
+  publisher={Oxford University Press}
+}
+
+@article{lu2026python,
+  title={Python Packages},
+  author={Lu, Min},
+  journal={Journal of the Royal Statistical Society Series A: Statistics in Society},
+  pages={qnag003},
+  year={2026},
+  doi={10.1093/jrsssa/qnag003},
+  url={https://doi.org/10.1093/jrsssa/qnag003},
+  publisher={Oxford University Press}
+}
+
 @ARTICLE{JTMensembletree,
 	AUTHOR = {Min Lu, Ruijie Yin and X. Steven Chen},
 	TITLE = {Ensemble Methods of Rank-Based Trees for Single Sample Classification with Gene Expression Profiles},

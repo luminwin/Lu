@@ -1,0 +1,8 @@
+@misc{LuIsopro,
+    author = "Min Lu and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran",
+    title = {isopro: identifying anomalous data vignette},
+    year = {2025},
+    url = {http://www.varprotools.org/articles/isopro.html},
+    howpublished = "\url{http://www.varprotools.org/articles/isopro.html}",
+    note = "[accessed date]"
+}

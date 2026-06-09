@@ -1,0 +1,8 @@
+@misc{HemantUNO,
+    author = "Hemant Ishwaran and Min Lu and Udaya B. Kogalur",
+    title = {{randomForestSRC}: Uno IPCW weighting, stabilization, and fast computation for improved concordance vignette},
+    year = {2026},
+    url = {http://randomforestsrc.org/articles/uno.html},
+    howpublished = "\url{http://randomforestsrc.org/articles/uno.html}",
+    note = "[accessed date]"
+}

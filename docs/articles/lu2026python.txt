@@ -1,0 +1,9 @@
+@article{lu2026python,
+  title={Python Packages},
+  author={Lu, Min},
+  journal={Journal of the Royal Statistical Society Series A: Statistics in Society},
+  pages={qnag003},
+  year={2026},
+  doi={10.1093/jrsssa/qnag003},
+  publisher={Oxford University Press}
+}

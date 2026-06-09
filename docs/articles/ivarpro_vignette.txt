@@ -1,0 +1,8 @@
+@misc{LuVarProi,
+    author = "Min Lu and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran",
+    title = {ivarPro: individual variable priority vignette},
+    year = {2025},
+    url = {http://www.varprotools.org/articles/ivarpro.html},
+    howpublished = "\url{http://www.varprotools.org/articles/ivarpro.html}",
+    note = "[accessed date]"
+}

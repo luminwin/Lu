@@ -1,0 +1,8 @@
+@misc{LuGettingStartedrhf,
+    author = "Hemant Ishwaran and Min Lu and Udaya B. Kogalur",
+    title = {{randomForestRHF}: getting started vignette},
+    year = {2026},
+    url = {http://www.randomforestrhf.org/articles/getstarted.html},
+    howpublished = "\url{http://www.randomforestrhf.org/articles/getstarted.html}",
+    note = "[accessed date]"
+}

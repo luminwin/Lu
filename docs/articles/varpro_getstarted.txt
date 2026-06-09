@@ -1,0 +1,8 @@
+@misc{LuGettingStartedvarpro,
+    author = "Min Lu and Ayrton Shear and Udaya B. Kogalur and Hemant Ishwaran",
+    title = {varPro: getting started with varPro vignette},
+    year = {2025},
+    url = {https://www.varprotools.org/articles/getstarted.html},
+    howpublished = "\url{https://www.varprotools.org/articles/getstarted.html}",
+    note = "[accessed date]"
+}
