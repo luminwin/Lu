@@ -2,9 +2,12 @@
   title={Variance-Guided Regression for Heteroscedastic Data with a Grouping-Based Extension for Nonlinear Prediction},
   author={Liu, Sibei and Lu, Min},
   journal={Statistics in Medicine},
+  volume={45},
+  number={13-14},
+  pages={e70632},
   year={2026},
-  note={To appear},
-  url={https://luminwin2.github.io/pdfs/docs/varGuid_SIM.pdf}
+  doi={10.1002/sim.70632},
+  url={https://doi.org/10.1002/sim.70632}
 }
 
 @article{ZHOU2026,
