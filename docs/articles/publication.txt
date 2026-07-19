@@ -1,3 +1,21 @@
+@article{WangJTM2026,
+  title={Variance-Aware Penalized Panel Models for Temporal Risk Detection from Wearable Sensor Data},
+  author={Wang, Zihao and Lu, Min},
+  journal={Journal of Translational Medicine},
+  year={2026},
+  doi={10.1186/s12967-026-08652-7},
+  url={https://doi.org/10.1186/s12967-026-08652-7}
+}
+
+@article{LiuAPM2026,
+  title={varGuid: R and Python Implementations of Variance-Guided Regression for Robust Effect-Size Estimation in Linear Models},
+  author={Liu, Sibei and Wang, Zihao and Lu, Min},
+  journal={Applied Psychological Measurement},
+  year={2026},
+  doi={10.1177/01466216261470433},
+  url={https://doi.org/10.1177/01466216261470433}
+}
+
 @article{LiuSIM2026,
   title={Variance-Guided Regression for Heteroscedastic Data with a Grouping-Based Extension for Nonlinear Prediction},
   author={Liu, Sibei and Lu, Min},
