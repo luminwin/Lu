@@ -1,3 +1,15 @@
+@article{LuKIS2026,
+  title={General OOD Detection via Model-Aware and Subspace-Aware Variable Priority},
+  author={Lu, Min and Ishwaran, Hemant},
+  journal={Knowledge and Information Systems},
+  volume={68},
+  pages={250},
+  year={2026},
+  doi={10.1007/s10115-026-02872-5},
+  url={https://doi.org/10.1007/s10115-026-02872-5},
+  publisher={Springer}
+}
+
 @article{WangJTM2026,
   title={Variance-Aware Penalized Panel Models for Temporal Risk Detection from Wearable Sensor Data},
   author={Wang, Zihao and Lu, Min},
